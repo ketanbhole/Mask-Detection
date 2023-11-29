@@ -95,7 +95,8 @@ def predict_mask(image_path):
     result = class_labels[predicted_class]
 
     return result
-
+    
+# here give the path to the image you want to process
 # Path to the image for prediction
 image_path = r'C:\Users\kri\IMG_20085_1027.jpg'
 
