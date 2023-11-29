@@ -10,7 +10,7 @@ The model architecture comprises MobileNetV2 as the base model, followed by a Fl
 ### Requirements
 
 - Python 3.9
-- TensorFlow (>=2.0)
+- TensorFlow
 - Pillow
 - Numpy
 
