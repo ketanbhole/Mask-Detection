@@ -7,6 +7,9 @@ It utilizes the MobileNetV2 architecture pre-trained on ImageNet and fine-tunes 
 
 The model architecture comprises MobileNetV2 as the base model, followed by a Flatten layer and a Dense layer with 'sigmoid' activation for binary classification ('With Mask' and 'Without Mask').
 
+Software:
+PyCharm
+
 ### Requirements
 
 - Python 3.9
